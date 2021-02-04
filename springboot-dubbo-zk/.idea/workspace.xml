@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="195e5b77-a699-4a06-8522-20298c2392e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../springboot-mysql/src/main/resources/mapper/InfoSalesmanObjectMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supplier-commodity-manage/supplier-commodity-manage-api/src/main/java/com/tydic/newretail/spcomm/sku/bo/ExSkuToExcelBO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supplier-commodity-manage/supplier-commodity-manage-api/src/main/java/com/tydic/newretail/spcomm/sku/bo/ExSkuToExcelRspBO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../supplier-commodity-manage/supplier-commodity-manage-api/src/main/java/com/tydic/newretail/spcomm/sku/bo/SkuExcelBO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/java/com/tydic/newpurchase/AdminApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/css/app.1f88578af59aff0a08b42a619ef1bf27-1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/css/app.1f88578af59aff0a08b42a619ef1bf27-1.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/css/app.1f88578af59aff0a08b42a619ef1bf27-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/css/app.1f88578af59aff0a08b42a619ef1bf27-2.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/fonts/iconfont.6bf9442.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/fonts/iconfont.6d6d8e5.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/fonts/iconfont.74b9274.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/fonts/ionicons.143146f.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/fonts/ionicons.99ac330.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/fonts/ionicons.d535a25.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/img/Illustrations.52aaf90.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/img/iconfont.2f6937f.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/img/ionicons.a2c4a26.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/0.b02ea6fe7ff9c714fed1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/0.b02ea6fe7ff9c714fed1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/1.96e5e368b2a168e59962.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/1.96e5e368b2a168e59962.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/2.280e16fe5a05f88e9a28.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/2.280e16fe5a05f88e9a28.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/3.a1a45bda21c923d6310d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/3.a1a45bda21c923d6310d.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/4.4fdcd78ec43da8eec358.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/4.4fdcd78ec43da8eec358.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/5.9625b3f751ecdda8bb5c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/5.9625b3f751ecdda8bb5c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/6.cd812f8888e1426253d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/6.cd812f8888e1426253d6.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/7.783ca9260af2669f0c32.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/7.783ca9260af2669f0c32.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/app.98b923af48f24427289a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/app.98b923af48f24427289a.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/axios.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/iview.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/lodash.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/manifest.e878611d5ee399fee6dc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/manifest.e878611d5ee399fee6dc.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vendor.2678f84d5cb295a02c0c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vendor.2678f84d5cb295a02c0c.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vue-router.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vue-router.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vue-treeselect.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vuex.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/js/vuex.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-admin/src/main/resources/static/view/style.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/admin/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/BrandBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CheckProvinceApprovalRuleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CheckProvinceApprovalRuleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CheckSkuBrandReviewRulesReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CheckSkuBrandReviewRulesRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CreateProvinceApprovalRuleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CreateProvinceApprovalRuleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CreateSkuReviewRulesReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/CreateSkuReviewRulesRsoBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/DelSkuReviewRulesReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/DelSkuReviewRulesRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/DeleteProvinceApprovalRuleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/DeleteProvinceApprovalRuleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/ModifySkuReviewRulesReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/ModifySkuReviewRulesRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/QueryApprovalRuleReqBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/QueryApprovalRuleRspBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/QueryProvinceApprovalRuleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/QueryProvinceApprovalRuleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/UpdateProvinceApprovalRuleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/bo/UpdateProvinceApprovalRuleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/CheckProvinceApprovalRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/CheckSkuBrandReviewRulesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/CreateProvinceApprovalRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/CreateSkuReviewRulesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/DelSkuReviewRulesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/DeleteProvinceApprovalRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/ModifySkuReviewRulesService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/QueryApprovalRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/QueryProvinceApprovalRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/approvalRule/service/UpdateProvinceApprovalRuleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/base/PurchaseReqBaseBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/base/PurchaseReqPageBaseBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/base/PurchaseRspBaseBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/base/PurchaseRspPageBaseBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/base/PurchaseTaskReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/BatchCreateOrderByBOSReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/BatchEndOrderFormDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/CreateEnterFormTaskReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/CreateInfoSendFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/CreateOrderRecommendReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/CreateOrderRecommendRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/CreateOrderRecommendTaskReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/DelOrderFormDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/DelOrderFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/EnterFormDetailExportRspBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/EnterFormDetailForExportBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/InfoOrderFormAndDetailBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/InfoSendFormBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/InfoTotalOrderFormBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/ModifyOrderFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/OrderByBOS.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/OrderFormDetailBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/OrderFormDetailForExportBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/PurchaseEnterScheduleBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/PurchaseOrderScheduleBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/PurchaseSendScheduleBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryInfoOrderRecommendRepBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryInfoOrderRecommendRsplBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryInfoSendFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryInfoSendFormRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryIntroOrderFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryIntroOrderFormRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryOrderFormDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryOrderFormDetailRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryOrderFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryOrderFormRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryOrderRecommendRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryProcessDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QryProcessDetailRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/QueryOrderFormDetailRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/bo/ScmCntBaseBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/constants/CacheKeyConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/constants/PurchaseRspConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/constants/ScmContants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/constants/UserInfoConstants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/bo/PurchaseOrderGoodsReqBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/bo/PurchaseOrderGoodsRspBo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/bo/QueryUserReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/bo/QueryUserRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/service/PurchaseOrderGoodsStatisticsService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/demo/service/QueryUserListService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/BatchIntroPurenterReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/BatchIntroPurenterRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/CheckImeiScanReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/CheckImeiScanRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/CreatePurEnterFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/CreatePurEnterFormRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterDetailForOrderBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterDetailForOrderReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterDetailForOrderRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterFormBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterFormDetailBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterGoodsInfoBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/EnterImeiBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ImeiScanBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ImportFailRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ImportPurchaseReturOrderRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ImportPurchaseReturnOrderReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ImportSuccessRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/IntroPurEnterListReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/IntroPurEnterPageRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/IntroPurEnterReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/IntroPurenterBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterFormDetailPageRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterFormDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterFormDetailRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterFormPageRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterFormReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterGoodsListPageRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/QueryEnterGoodsListReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ReceiveDetailImeiBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ReceiveImeisReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ReceiveImeisRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/ReceiveOrderDetailBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/SumPurchJtPORspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/bo/SumPurchJtReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/CheckImeiScanService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/CreatePurEnterFormAtomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/CreatePurEnterFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/IntroPurEnterService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/QueryEnterDetailForOrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/QueryEnterFormDetailExportService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/QueryEnterFormDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/QueryEnterFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/QueryEnterGoodsListService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/QueryPurEnterAllService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/enterform/service/ReceiveImeisService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/formapproval/bo/FormApprovalDetailBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/formapproval/bo/FormApprovalReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/formapproval/bo/FormApprovalRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/formapproval/bo/FormDetailStatusBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/formapproval/service/CreateFormApprovalService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/formapproval/service/FormApprovalPassService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/CheckImeiReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/CheckImeiRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/CreateAfterSalesFormApprovalReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/CreateAfterSalesFormApprovalRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/InfoPurchaseAfterSalesDetailBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/InsertInfoPurchaseAfterSaleBathReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/InsertInfoPurchaseAfterSaleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/InsertInfoPurchaseAfterSaleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/QueryInfoPurchaseAfterSaleDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/QueryInfoPurchaseAfterSaleDetailRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/QueryInfoPurchaseAfterSaleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/QueryInfoPurchaseAfterSaleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/UpdateAfterSalesFormApprovalReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/UpdateAfterSalesFormApprovalRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/UpdateInfoPurchaseAfterSaleReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/bo/UpdateInfoPurchaseAfterSaleRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/CreateAfterSalesFormApprovalService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/ImportPurchaseReturnsOrder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/InsertBatchPurchaseAfterSaleDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/InsertInfoPurchaseAfterSaleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/PurchaseCheckImeiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/QueryInfoPurchaseAfterSaleDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/QueryInfoPurchaseAfterSaleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/UpdateAfterSalesFormApprovalService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/order/service/UpdateInfoPurchaseAfterSaleService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/BatchOrderApprovalReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/BatchOrderApprovalRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/ImportFailureDetailsBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/ImportOrderApprovalReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/ImportOrderApprovalRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/InfoApprovalProcessBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/OrderApprovalReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/QueryInfoOrderApprovalProcessReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/QueryInfoOrderApprovalProcessRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/bo/RuleApprRoleRelRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/service/OrderApprovalAbilityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/service/OrderApprovalAtomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/service/OrderApprovalService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/orderApprovalManagement/service/QueryInfoOrderApprovalProcessService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/ordersuggest/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/PurchaseOrderEnum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/api/BatchAddPurchaseOrderByExcelService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/api/InfoPurchaseOrderAtomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/api/InfoPurchaseOrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/ActImportCommRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/AddInfoPurchaseOrderReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/AddInfoPurchaseOrderRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/AddPurchaseOrderByExcelReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/DeleteInfoPurchaseOrderReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/QueryInfoPurchaseOrderReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/bo/QueryInfoPurchaseOrderRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/purchaseOrderManagement/po/DInfoPurchaseOrderDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/scmInventorySync/ability/ScmInventroySyncExceAbilityService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/scmInventorySync/bo/InventorySyncExceRecordingDetailReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/scmInventorySync/bo/InventorySyncExceRecordingReqBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/scmInventorySync/bo/InventorySyncExceRecordingRspBO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/scmInventorySync/busi/ScmInventroySyncExceBusiService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/BatchEndOrderFormDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/CreateEnterFormTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/CreateInfoSendFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/CreateOrderRecommendService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/CreateOrderRecommendTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/CreatePurchaseOrderFromScmTask.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/DelOrderFormDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/DelOrderFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/EnterFormTaskService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/ModifyOrderByBOSService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/ModifyOrderFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/QryInfoOrderRecommendService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/QryInfoSendFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/QryIntroOrderFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/QryOrderFormService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/QryProcessDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/api/service/QueryOrderFormDetailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/lombok.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/util/LongJsonSerializer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-api/src/main/java/com/tydic/newpurchase/util/PurchaseGenerateIdUtil.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/config/NewpurchaseDataSourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/config/NewpurchaseTransactionAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/config/NewpurchaseTransactionManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/constant/BusinessCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/constant/CacheKey.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/controller/OrderFormTestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/AftersalesApprovalProcessInfoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/ApprStatusMappingMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/ApprStepInfoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/BrandScmMappingMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/EnterGoodsInfoMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoApprovalProcessMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoOrderFormDetailMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoOrderFormMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoOrderRecommendDetailMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoOrderRecommendMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoPurchaseAfterSaleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoPurchaseAftersalesDetailMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoPurchaseEnterDetailMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoPurchaseEnterMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoPurchaseOrderDetailMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoPurchaseOrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InfoSendFormMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InventorySyncExceRecordDetailDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/InventorySyncExceRecordingDAO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/PurchaseEnterScheduleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/PurchaseImeiDetailMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/PurchaseOrderFormMixMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/PurchaseOrderScheduleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/PurchaseSendScheduleMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/ReceiveImeisMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/RuleApprRoleRelMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/RuleMatchApprovalMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/RulePurchaseApprovalBrandMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/RulePurchaseApprovalProvinceMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/dao/UserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/exception/NewpurchaseBusinessException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/AftersalesApprovalProcessInfoPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/ApprStatusMappingPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/ApprStepInfoPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/BrandScmMappingPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/EnterGoodsInfoPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoApprovalProcessPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoOrderFormDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoOrderFormPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoOrderRecommendDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoOrderRecommendPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoPurchaseAfterSalePO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoPurchaseAfterSalesDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoPurchaseEnterDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoPurchaseEnterPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoPurchaseOrderDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoPurchaseOrderPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InfoSendFormPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/IntroFormDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/IntroPurEnterPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InventorySyncExceRecordDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InventorySyncExceRecordingPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/InventorySyncExceRecordingUnionDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/OrderFormPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/PurchaseEnterSchedulePO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/PurchaseImeiDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/PurchaseOrderFormMixPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/PurchaseOrderSchedulePO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/PurchaseSendSchedulePO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/ReceiveImeisPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/ReceivePurchasePO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/ReceivePurchaseStatusPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RuleApprDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RuleApprRoleRelPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RuleApprRoleRelRspPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RuleMatchApprovalPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RulePurchaseApprovalBrandPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RulePurchaseApprovalProvinceDetailPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/RulePurchaseApprovalProvincePO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/SumPurchJtPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/po/UserPO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/ability/impl/OrderApprovalAbilityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/ability/impl/scmInventorySync/ScmInventroySyncExceAbilityServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/ScmInventroySyncExceAtomService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/impl/CreateFormApprovalServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/impl/enterform/CreatePurEnterFormAtomServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/impl/enterform/ReceiveImeisServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/impl/purchaseorder/InfoPurchaseOrderAtomServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/impl/purchaseorder/OrderApprovalAtomImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/atom/impl/scmInventorySync/ScmInventorySyncExceAtomServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/EnterFormTaskServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/CheckProvinceApprovalRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/CheckSkuBrandReviewRulesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/CreateProvinceApprovalRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/CreateSkuReviewRulesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/DelSkuReviewRulesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/DeleteProvinceApprovalRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/ModifySkuReviewRulesServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/QueryApprovalRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/QueryProvinceApprovalRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/approvalRule/UpdateProvinceApprovalRuleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/BatchEndOrderFormDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/DelOrderFormDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/DelOrderFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/ModifyOrderByBOSServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/ModifyOrderFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/QryIntroOrderFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/QryOrderFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/QryProcessDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/commendorder/QueryOrderFormDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/demo/PurchaseOrderGoodsStatisticsImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/demo/QueryUserListServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/CheckImeiScanServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/CreatePurEnterFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/IntroPurEnterServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/QueryEnterDetailForOrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/QueryEnterFormDetailExportServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/QueryEnterFormDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/QueryEnterFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/QueryEnterGoodsListServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/enterform/QueryPurEnterAllServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/CreateAfterSalesFormApprovalServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/ImportPurchaseReturnsOrderImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/InsertBatchPurchaseAfterSaleDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/InsertInfoPurchaseAfterSaleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/PurchaseCheckImeiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/QueryInfoPurchaseAfterSaleDetailServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/QueryInfoPurchaseAfterSaleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/UpdateAfterSalesFormApprovalServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/order/UpdateInfoPurchaseAfterSaleServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/orderApprovalManagement/OrderApprovalImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/orderApprovalManagement/QueryInfoOrderApprovalProcessImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/orderrecommend/CreateOrderRecommendServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/orderrecommend/CreateOrderRecommendTaskImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/orderrecommend/QryInfoOrderRecommendServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/purchaseOrderManagement/BatchAddPurchaseOrderByExcelServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/purchaseOrderManagement/CreatePurchaseOrderFromScmTaskImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/purchaseOrderManagement/InfoPurchaseOrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/scmInventorySync/ScmInventroySyncExceBusiServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/sendform/CreateEnterFormTaskImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/sendform/CreateInfoSendFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/impl/sendform/QryInfoSendFormServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/busi/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/service/package-info.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/java/com/tydic/newpurchase/utils/TkExcelUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/generatorConfig.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/generatorConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/AftersalesApprovalProcessInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/ApprStatusMappingMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/ApprStepInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/BrandScmMappingMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/EnterGoodsInfoMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoApprovalProcessMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoOrderFormDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoOrderFormMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoOrderRecommendDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoOrderRecommendMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoPurchaseAfterSaleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoPurchaseAftersalesDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoPurchaseEnterDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoPurchaseEnterMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoPurchaseOrder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoPurchaseOrderDetail.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InfoSendFormMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InventorySyncExceRecordDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/InventorySyncExceRecordingMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/PurchaseEnterScheduleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/PurchaseImeiDetailMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/PurchaseOrderFormMixMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/PurchaseOrderScheduleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/PurchaseSendScheduleMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/ReceiveImeisMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/RuleApprRoleRelMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/RuleMatchApprovalMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/RulePurchaseApprovalBrandMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/RulePurchaseApprovalProvinceMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-center/src/main/resources/newpurchase/mappers/UserMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-controller/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-external/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-interface-api/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/java/com/tydic/newpurchase/ServiceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/java/com/tydic/newpurchase/TomcatApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/java/com/tydic/newpurchase/config/ApplicationConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/java/com/tydic/newpurchase/config/InitEscapeCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/java/com/tydic/newpurchase/config/MybatisConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/java/com/tydic/newpurchase/config/unrSmcPurchaseObjectMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/resources/banner.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/resources/log4j2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/resources/mybatis/mybatis-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/resources/purchase-hsf-consumer.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newpurchase-service/src/main/resources/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1o0Wbl5XO5lm0ctTi0EO39GDYV7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="195e5b77-a699-4a06-8522-20298c2392e3" name="Default Changelist" comment="" />
+      <created>1612424061766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612424061766</updated>
+      <workItem from="1612424063072" duration="1547000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="213" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1612424335296">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="213" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1612424335296" />
+    <state x="226" y="104" key="new project wizard" timestamp="1612424402020">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="226" y="104" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1612424402020" />
+  </component>
+</project>
